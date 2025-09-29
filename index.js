@@ -18,4 +18,5 @@ const a = 3;
 const b = 7;
 
 const wynik = kalkulator(a, b);
+const wyni2 = kalkulator(a, b);
 console.log(`Suma: ${wynik.sumaWynik}, Iloczyn: ${wynik.iloczyn}`);
