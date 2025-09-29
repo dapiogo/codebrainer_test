@@ -1,7 +1,6 @@
 function suma(a, b) {
   let wynik = a + b;
   return wynik;
-  console.log('s');
 }
 
 function mnozenie(x, y) {
